@@ -5,3 +5,4 @@ page.html
 checkver-*.html
 update/target/
 update/Cargo.lock
+*.exe
